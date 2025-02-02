@@ -5,3 +5,5 @@
 <p>You can execute the app with the next instruction</p>
 
 ```npm install react```
+
+<p>Actualización con "Git Pull" en local</p>
